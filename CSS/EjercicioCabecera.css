@@ -1,26 +1,4 @@
 .hero {
-    background-color: #f0f0f0;
-    padding: 20px;
-    text-align: center;
-}
+    background-image: url('https://i.pinimg.com/736x/f2/52/08/f25208be54ebd8195113d45f42f8c3fd.jpg');
 
-.hero h1 {
-    color: #333;
-    font-size: 2.5em;
-    margin-bottom: 10px;
-}
-
-.hero p {
-    color: #666;
-    font-size: 1.2em;
-    margin-bottom: 20px;
-}
-
-.btn {
-    display: inline-block;
-    background-color: #007bff;
-    color: #fff;
-    padding: 10px 20px;
-    text-decoration: none;
-    border-radius: 5px;
 }
